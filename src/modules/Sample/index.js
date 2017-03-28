@@ -1,8 +1,8 @@
-import React, {Component, PropTypes} from 'react';
+import React, { Component, PropTypes } from 'react';
 
 class Sample extends Component {
   render() {
-    const {title, data, onChange} = this.props;
+    const { title, data, onChange } = this.props;
 
     return (
       <div>
