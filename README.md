@@ -1,3 +1,5 @@
+![Wizard Demo](wizard.gif "Wizard Demo")
+
 # React Wizard UI Component
 
 This repo demonstrates an example reusable wizard component, in which any number of child components may be passed to create a step-by-step wizard.
