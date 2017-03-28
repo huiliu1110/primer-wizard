@@ -1,0 +1,25 @@
+@import '_reset';
+
+html {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Helvetica Neue, Arial, sans-serif;
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}

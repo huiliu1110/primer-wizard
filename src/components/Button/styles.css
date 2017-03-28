@@ -1,0 +1,37 @@
+.btn {
+  border: 0;
+  border-radius: 3px;
+  font-size: 14px;
+  outline: none;
+  padding: 8px 16px;
+  transition: all 0.3s ease-out;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn[disabled] {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.primary {
+  background: #3b5998;
+  color: #fff;
+}
+
+.primary:hover {
+  opacity: 0.8;
+}
+
+.ghost {
+  background: #fff;
+  border: solid 1px #d9d9d9;
+  color: #989898;
+}
+
+.ghost:hover {
+  border-color: #3b5998;
+  color: #3b5998;
+}

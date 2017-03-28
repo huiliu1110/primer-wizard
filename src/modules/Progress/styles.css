@@ -1,0 +1,9 @@
+.progress-bar {
+  background: #DFE3EE;
+}
+
+.progress-bar::after {
+  content: '';
+  display: table;
+  clear: both;
+}

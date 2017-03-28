@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a Step component 1`] = `
+<div
+  className="step "
+>
+  <div
+    className="step-title"
+  >
+    Sample Test
+  </div>
+  <div
+    className="step-subtitle"
+  >
+    Sample Subtitle
+  </div>
+</div>
+`;

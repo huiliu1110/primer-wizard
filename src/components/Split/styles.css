@@ -1,0 +1,13 @@
+.split::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.split-left {
+  float: left;
+}
+
+.split-right {
+  float: right;
+}

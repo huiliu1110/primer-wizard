@@ -1,0 +1,14 @@
+.wizard-container {
+  margin: 50px auto;
+  width: 65%;
+}
+
+.content-container {
+  padding: 24px;
+  background: #ededed;
+  margin: 20px 0
+}
+
+.wizard-nav {
+  margin: 24px 0 0;
+}
